@@ -1,0 +1,16 @@
+39807
+starting tunnel
+0: /home/deshanw/.nvm/versions/node/v13.11.0/bin/node
+1: /home/deshanw/PP1 Staging/Client Server/app.js
+2: doctor
+Listening on port 39807
+Saved
+This nodes connection tunnel url |https://c1f4e7deeb00.ngrok.io
+https://admin-node-pp1-staging.herokuapp.com/
+Server connection met....Intializing connection
+authenticated
+Connect to parent server node |
+1
+Getting connection nodes.....
+Getting connected nodes from a peer node|
+sent**********************************
